@@ -10,6 +10,7 @@ public class Pack01 {
 
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://www.facebbok.com");
+		System.out.println("Facebook launched");
 	}
 
 }
